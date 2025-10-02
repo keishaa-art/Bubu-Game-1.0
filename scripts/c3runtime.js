@@ -1408,6 +1408,7 @@ self.C3_ExpressionFuncs = [
 		() => "In this game you have to collect 5 fish, are you ready?",
 		() => 3,
 		() => "setting",
+		() => "Mobile",
 		() => "Gaming",
 		() => "Cat",
 		p => {
